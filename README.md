@@ -31,7 +31,7 @@
 **Daftar Fitur:**
 1. Nama Penyakit Pasien
 2. Nama Rumah Sakit
-3. Nama Dokter Yang Memeriksa
+3. Nama Dokter
 4. Nama Pasien
 5. Alamat Pasien
 
